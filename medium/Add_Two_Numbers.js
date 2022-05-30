@@ -1,0 +1,1 @@
+const addTwoNumbers = (l1, l2) => (parseInt(l1.reverse().join('')) + parseInt(l2.reverse().join('')));
